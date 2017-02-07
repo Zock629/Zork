@@ -1,0 +1,6 @@
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\bin\Debug\ZorkCSharp.exe.config
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\obj\Debug\ZorkCSharp.csprojResolveAssemblyReference.cache
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\bin\Debug\ZorkCSharp.exe
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\bin\Debug\ZorkCSharp.pdb
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\obj\Debug\ZorkCSharp.exe
+D:\zock629\documents\visual studio 2015\Projects\ZorkCSharp\ZorkCSharp\obj\Debug\ZorkCSharp.pdb
