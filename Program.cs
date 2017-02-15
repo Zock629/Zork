@@ -11,15 +11,18 @@ namespace ZorkCSharp
     {
         static void Main(string[] args)
         {
-            bool Play = true;
             Startup.Format();
             Startup.TopBar();
-            while (Play)
+            Startup.StartingText();
+            Startup.Format();
+            Startup.TopBar();
+            while (Variables.Play)
             {
                 Console.Write(">");
-                Console.ReadLine();
-                Startup.TopBar();
+                Variables.UserInput = Console.ReadLine();
+                Commands.Movement();
                 Startup.Format();
+                Startup.TopBar();
             }
         }
     }
