@@ -11,7 +11,12 @@ namespace ZorkCSharp
         public static int PlayerX = 0;
         public static int PlayerY = 0;
         public static int PlayerZ = 0;
+        public static int TBLen = 0;
         public static bool AboveGround = true;
+        public static bool[] Moved = new bool[2];
+        public static bool[] Locations = new bool[20];
+        public static string Sp = "";
+        public static string Spaces;
         public static string Move = "";
         public static string LocationName = "";
         public static string PlayerLoction = "";

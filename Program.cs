@@ -22,7 +22,9 @@ namespace ZorkCSharp
                 Variables.UserInput = Console.ReadLine();
                 Commands.Movement();
                 Startup.Format();
-                Startup.TopBar();
+                Location.AboveGround(); 
+                Checks.Text();
+                TopBar.Top();
             }
         }
     }

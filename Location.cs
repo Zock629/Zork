@@ -21,7 +21,7 @@ namespace ZorkCSharp
             if (Variables.PlayerX == 2 & Variables.PlayerY == 0 & Variables.PlayerZ == 1 & Variables.AboveGround) { Variables.LocationName = "Attic"; }
             // Forests, Paths and Clearings
             if (Variables.PlayerX == 4 & Variables.PlayerY == 0 & Variables.PlayerZ == 0 & Variables.AboveGround) { Variables.LocationName = "Clearing"; }
-            if (Variables.PlayerX == 4 & Variables.PlayerY == -1 & Variables.PlayerZ == 0 & Variables.AboveGround) { Variables.LocationName = "Forest"; }
+            if (Variables.PlayerX == 4 & Variables.PlayerY == -2 & Variables.PlayerZ == 0 & Variables.AboveGround) { Variables.LocationName = "Forest"; }
             if (Variables.PlayerX == -1 & Variables.PlayerY == 2 & Variables.PlayerZ == 0 & Variables.AboveGround) { Variables.LocationName = "Forest"; }
             if (Variables.PlayerX == 1 & Variables.PlayerY == 2 & Variables.PlayerZ == 0 & Variables.AboveGround) { Variables.LocationName = "Forest Path"; }
             if (Variables.PlayerX == 1 & Variables.PlayerY == 2 & Variables.PlayerZ == 1 & Variables.AboveGround) { Variables.LocationName = "Up a Tree"; }
