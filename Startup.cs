@@ -23,8 +23,6 @@ namespace ZorkCSharp
             Console.BackgroundColor = ConsoleColor.Gray;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine(" West of House                                        Score: 0      Moves: 0     ");
-            Console.CursorTop = 1;
-            Console.WriteLine(Variables.Spaces);
             Console.CursorTop = 23;
             Console.ResetColor();
         }
